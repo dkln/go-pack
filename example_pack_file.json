@@ -1,0 +1,12 @@
+{
+  "packages":[
+    { 
+      "source":     "github.com/dkln/go-aws",
+      "target":     "aws",
+    },
+
+    {
+      "source":     "github.com/mitchellh/goamz/aws",
+    }
+  ]
+}
